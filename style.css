@@ -1,0 +1,70 @@
+ body{
+     padding: 0;
+     margin: 0;
+     background-image:url(./assets/background.jfif);
+     background-repeat: no-repeat;
+     background-size: cover;
+ 
+        }
+
+div{
+    width: 320px;
+    box-shadow: 0 0 3px rgba(0, 0 0, 0.3);
+    background:#fff;
+    text-align: center;
+    padding: 20px;
+    margin: 8% auto;
+}
+
+h1{
+    color:cornflowerblue;
+}
+
+.input-box{
+    border-radius: 20px;
+    margin: 10px 0;
+    padding: 10px ;
+    border: 1px solid #999;
+    width:300px;
+;}
+
+.check-box{
+    margin:10px;
+}
+
+
+button{
+    padding: 10px ;
+    margin: 10px 0;
+   border: 1px solid #999;
+   border-radius: 20px;
+   width:300px;
+   outline: none;
+}
+.signup-button{
+    background-color: blue;
+}
+.twitter-button{
+    background-color: cornflowerblue;
+
+}
+a{
+    text-decoration: none;
+}
+
+hr{
+    margin-top: 20px;
+    width:80%;
+}
+
+.or{
+background: #fff;
+width: 30px;
+margin: -19px auto 10px;
+
+}
+
+img{
+    width:90px;
+    margin-top: -60px;
+}
